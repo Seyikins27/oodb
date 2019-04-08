@@ -1,0 +1,1 @@
+[{"id": "int | primary", "firstname": "string", "middlename": "string", "lastname": "string", "address": "string", "email": "email", "phone": "int(15)", "date_created": "date"}]

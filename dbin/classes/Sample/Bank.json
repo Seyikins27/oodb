@@ -1,0 +1,1 @@
+[{"account": "int | primary", "user id": "int | ref(Person.id)", "account_type": "string", "account_balance": "int", "date_created": "date"}]
